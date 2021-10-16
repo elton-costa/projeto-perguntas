@@ -1,16 +1,14 @@
-# projeto_perguntas
+# Projeto Perguntas
 
-A new Flutter project.
+![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-## Getting Started
+![GitHub repo size](https://img.shields.io/github/repo-size/elton-costa/projeto-perguntas) 
 
-This project is a starting point for a Flutter application.
+Projeto de estudo pelo curso: Aprenda Flutter e Desenvolva Apps Para Android e IOS 2021.
 
-A few resources to get you started if this is your first Flutter project:
+> Status do Projeto: Em desenvolvimento :warning:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## License
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+MIT
+
