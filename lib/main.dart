@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:projeto_perguntas/resultado.dart';
 import './questao.dart';
-import 'resposta.dart';
+import './resposta.dart';
+import './resultado.dart';
 
 main() => runApp(PerguntaApp());
 
@@ -52,12 +54,7 @@ class _PerguntaAppState extends State<PerguntaApp> {
                   ...respostas.map((t) => Resposta(t, _responder)).toList(),
                 ],
               )
-            : const Center(
-                child: Text(
-                  'Perguntas Finalizadas',
-                  style: TextStyle(fontSize: 28),
-                ),
-              ),
+            : Resultado(),
       ),
     );
   }
